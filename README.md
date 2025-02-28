@@ -39,18 +39,6 @@ python ./tests/functions/optimization.py --save_dir results --train_factor 1 --w
 
 Parameters function similarly to those in the WEBO algorithm command, specifying experiment settings and configurations.
 
-
-run WEBO algorithm
-```
-python ./tests/functions/optimization.py --save_dir results --train_factor 1 --which_func func2C --n_jobs 1 --n_repeats 1 --budget 100
-```
-
-train WEGP model
-```
-python ./tests/functions/run_script.py --save_dir results --which_func func2C --train_factor 1 --n_jobs 1 --n_repeats 1
-```
-
-
 ## Citation
 ```bibtex
 @inproceedings{
