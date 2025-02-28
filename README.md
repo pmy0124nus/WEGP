@@ -51,15 +51,3 @@ Parameters function similarly to those in the WEBO algorithm command, specifying
 }
 ```
 
-
-Below is a comprehensive README example in English that you can use as a template for your repository:
-
----
-
-# Weighted Euclidean Distance Matrices over Mixed Inputs for Gaussian Process Models
-
-This repository contains the code for experiments presented in the paper “[Weighted Euclidean Distance Matrices over Mixed Inputs for Gaussian Process Models](https://openreview.net/forum?id=BuhgHqJQV7)”. The model addresses problems with mixed inputs (continuous and categorical) within Gaussian Process models.
-
-## Project Overview
-
-
