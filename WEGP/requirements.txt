@@ -1,0 +1,8 @@
+python==3.9
+gpytorch==1.10
+jax==0.4.13
+jaxlib==0.4.13
+numpy==1.24.4
+numpyro==0.12.1
+scikit-learn==1.3.2
+torch==2.4.0
